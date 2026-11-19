@@ -1,0 +1,27 @@
+[
+  {
+    "file": "genuine_application.png",
+    "original_path": "dataset/testing_data/images/86263525.png",
+    "source": "https://guillaumejaume.github.io/FUNSD/dataset.zip"
+  },
+  {
+    "file": "genuine_purchase_order.png",
+    "original_path": "dataset/testing_data/images/87528380.png",
+    "source": "https://guillaumejaume.github.io/FUNSD/dataset.zip"
+  },
+  {
+    "file": "genuine_lab_request.png",
+    "original_path": "dataset/testing_data/images/83573282.png",
+    "source": "https://guillaumejaume.github.io/FUNSD/dataset.zip"
+  },
+  {
+    "file": "genuine_fax_note.png",
+    "original_path": "dataset/testing_data/images/83772145.png",
+    "source": "https://guillaumejaume.github.io/FUNSD/dataset.zip"
+  },
+  {
+    "file": "genuine_report.png",
+    "original_path": "dataset/testing_data/images/87137840.png",
+    "source": "https://guillaumejaume.github.io/FUNSD/dataset.zip"
+  }
+]

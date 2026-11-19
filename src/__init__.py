@@ -1,0 +1,1 @@
+"""Local form extraction prototype."""
